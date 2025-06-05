@@ -171,13 +171,13 @@ Confirm the deletion when prompted to remove all resources.
 - Stack ARN confirms successful creation in us-east-1
 
 ### Infrastructure Components Created
-1. ✅ TechhealthMigrationVPC
-2. ✅ EC2SecurityGroup
-3. ✅ RDSSecurityGroup  
-4. ✅ EC2IAMRole
-5. ✅ TechhealthMigrationEC2
-6. ✅ TechhealthMigrationRDS
-7. ✅ Custom VPC, Route Tables, and Subnets
+1. TechhealthMigrationVPC
+2. EC2SecurityGroup
+3. RDSSecurityGroup  
+4. EC2IAMRole
+5. TechhealthMigrationEC2
+6. TechhealthMigrationRDS
+7. Custom VPC, Route Tables, and Subnets
 
 ## Design Decisions & Rationale
 
